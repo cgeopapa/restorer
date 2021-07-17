@@ -3,3 +3,4 @@ PyCharm Professional, sudo snap install pycharm-professional --classic
 VS Code, sudo snap install code --classic
 git, sudo apt install git -y
 ONLYOFFICE, sudo snap install onlyoffice-desktopeditors
+rclone, sudo apt install rclone -y
