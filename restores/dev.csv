@@ -1,6 +1,8 @@
 Mailspring, sudo snap install mailspring
 PyCharm Professional, sudo snap install pycharm-professional --classic
+Intellij Professional, sudo snap install intellij-idea-ultimate --classic 
 VS Code, sudo snap install code --classic
 git, sudo apt install git -y
 ONLYOFFICE, sudo snap install onlyoffice-desktopeditors
 rclone, sudo apt install rclone -y
+nodejs/npm, curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -; sudo apt install nodejs -y
